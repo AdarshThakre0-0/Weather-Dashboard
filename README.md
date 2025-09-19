@@ -28,3 +28,7 @@ Live Demo: https://weather-dashboard0-0.netlify.app/
 - **OpenWeather API**  
 
 ---
+
+👨‍💻 Author
+
+Adarsh Thakre 📧 [adarshthakre.1421@gmail.com] 🔗 [https://www.linkedin.com/in/adarshthakre/]
