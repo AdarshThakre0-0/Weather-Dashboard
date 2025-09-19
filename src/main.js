@@ -481,7 +481,7 @@ const globalWeather = {
 	},
 };
 
-const OPENWEATHER_KEY = 'cee514be4df9ba00db64e685f56b42b5';
+const OPENWEATHER_KEY = 'API-KEY-HERE';
 const weatherService = new WeatherService(OPENWEATHER_KEY);
 
 weatherService.initializeGeolocation();
@@ -490,4 +490,5 @@ weatherService.getSavedLocation();
 themeManager.initialize();
 searchManager.initialize();
 selectedLocationWeather.initialize();
+
 globalWeather.initialize();
