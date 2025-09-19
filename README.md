@@ -18,6 +18,7 @@ Built with **HTML, CSS, JavaScript, and JSON**, the dashboard features light/dar
 
 ---
 
+Live Demo: https://weather-dashboard0-0.netlify.app/ 
 
 ## 🛠️ Technologies Used
 - **HTML5**  
